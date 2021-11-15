@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bondea_Iur_Lab_5", "Bondea_Iur_Lab_5.csproj", "{F4DF2609-E08B-4B55-BB7F-A8BAB4DAFE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{E1A8FEED-93DC-4DA4-90D5-FFC0109ECBD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4DF2609-E08B-4B55-BB7F-A8BAB4DAFE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DF2609-E08B-4B55-BB7F-A8BAB4DAFE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DF2609-E08B-4B55-BB7F-A8BAB4DAFE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DF2609-E08B-4B55-BB7F-A8BAB4DAFE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A8FEED-93DC-4DA4-90D5-FFC0109ECBD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A8FEED-93DC-4DA4-90D5-FFC0109ECBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A8FEED-93DC-4DA4-90D5-FFC0109ECBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A8FEED-93DC-4DA4-90D5-FFC0109ECBD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C74D0B0C-4C55-4C93-A61B-F6F9013E043A}
+	EndGlobalSection
+EndGlobal
